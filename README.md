@@ -1,0 +1,2 @@
+# funky
+`funky` is a simple playout system written in Go. At its core, `funky` simply reads a configuration file, generates [liquidsoap](https://www.liquidsoap.info/) code and executes it. [soapy]("https://gitlab.com/ollybritton/funky/pkg/soapy") is the package that actually generates the liquidsoap code.
